@@ -268,6 +268,7 @@
 
 ###### Rich Text Editing
 
+ - [megadraft](https://github.com/globocom/megadraft) - Megadraft is a Rich Text editor built on top of Facebook's draft.js featuring a nice default base of components and extensibility.
  - [react-quill](https://github.com/zenoamaro/react-quill) - A Quill component for React.
  - [react-ace](https://github.com/securingsincity/react-ace) - React Ace Component.
  - [react-contenteditable](https://github.com/lovasoa/react-contenteditable) - React component for a div with editable contents.
